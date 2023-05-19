@@ -1,0 +1,11 @@
+
+.button-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 1rem;
+  }
+  
+  .select-type-button {
+    margin: 0 auto;
+  }
